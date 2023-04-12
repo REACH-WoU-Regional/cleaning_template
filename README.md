@@ -65,7 +65,7 @@ Translation requests - if available Same process as above but for open-ended que
 
 #### 8: outputting the cleaned data or data log (if available)
 
-Here you are finally. 😇 
+Here you are finally. 😇
 
 But one more step !😅
 
