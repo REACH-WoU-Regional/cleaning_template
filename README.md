@@ -71,4 +71,4 @@ But one more step !😅
 
 You can run the *package4validation.R* to prepare the folder to send to HQ for validation.
 
-Now we are done. 
+Now we are done.
