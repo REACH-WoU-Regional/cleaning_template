@@ -1,15 +1,15 @@
 # cleaning_template
 Hello!
 
-In case you made it here, you are currently reading a Read Me made by Me 😀. This repository contains the structure and the scripts neededto clean any raw kobo data from scratch and creating final outputs.
+In case you made it here, you are currently reading a Read Me made by Me 😀. This repository contains the structure and the scripts needed to clean any raw kobo data from scratch and creating final outputs.
 
 This process requires knowledge in R and the REACH Standard Checklist for Quantitative Cleaning, so I will try my best to showcase a step-by-step here to managing all of this data. 
 
 ## Some details
 
-- These scripts were built by the amaying team in REACH Syria. 
+- These scripts were built by the amazing team in REACH Syria. 
 
-- The team in Out of Ukraine REACH Regional carried this legacy and optomized all the processes and did major updates to the BackEnd (Utility Repo).
+- The team in Out of Ukraine REACH Regional carried this legacy and optimized all the processes and did major updates to the BackEnd (Utility Repo).
 
 ### Outputs
 
